@@ -14,6 +14,7 @@ A lightweight console text editor inspired by Vim, written in C/C++. It supports
 - **[Examples](EXAMPLES.md)** - Usage examples and workflows
 - **[Troubleshooting](TROUBLESHOOTING.md)** - Common issues and solutions
 - **[Contributing](CONTRIBUTING.md)** - How to contribute
+- **[Code of Conduct](CODE_OF_CONDUCT.md)** - Community guidelines
 - **[Changelog](CHANGELOG.md)** - Version history and changes
 
 ## ✨ Features
